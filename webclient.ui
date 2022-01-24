@@ -62,7 +62,7 @@
     <string>HTML Output:</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton">
+  <widget class="QPushButton" name="goButton">
    <property name="geometry">
     <rect>
      <x>320</x>
